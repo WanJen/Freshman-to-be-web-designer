@@ -1,0 +1,264 @@
+.clear {
+    clear: both;
+}
+
+#navbar {
+	background-color:#360836;
+	height: 45px;
+	color: #FFFFFF;
+	font-size: 18px;
+}
+
+#navmenu {
+	width: 200px;
+	margin: 0 auto;
+}
+
+.nav {
+	float: left;
+	margin-left: 10px;
+	line-height: 45px;
+}
+
+#banner {
+	background-image: url("pic/tumblr_nizck0mDi41slhhf0o1_1280_small.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 650px;
+}
+
+#banner h1 {
+	width: 350px;
+	color: #FFFFFF;
+	font-size: 5em;
+	font-family: Rockwell;
+	margin: 0 auto;
+	padding-top: 3em;
+}
+
+#banner h2 {
+	width: 250px;
+	color: #FFFFFF;
+	font-size: 1em;
+	font-family: Palatino;
+	margin: 0 auto;
+}
+
+#banner h3 {
+	width: 300px;
+	color: #FFFFFF;
+	font-size: 1em;
+	margin: 0 auto;
+	padding-top: 3em;
+	text-align: center;
+}
+
+.dot {
+	font-size: 4em;
+	color: #FFFFFF;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 0.55em;
+	line-height: 0.4em;
+}
+
+#banner-button {
+	width: 300px;
+	background-color: #FF0000;
+	font-size: 1.5em;
+	text-align: center;
+	line-height: 2.5em;
+	margin: 0 auto;
+}
+
+#banner-button a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#banner-button a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#banner-button a:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#portfolio {
+	width: 100%;
+	height: 1060px;
+}
+
+#portfolio img {
+	width: 25%;
+	float: left;
+}
+
+#folks-top {
+	height: 55px;
+	background-color: #FF0048;
+	font-size: 1.2em;
+	line-height: 55px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+#folks-region {
+	background-color: #F3F3F3;
+	height: 1250px;
+}
+
+.folks {
+	color: #FF0048;
+	font-size: 1.6em;
+	line-height: 120px;
+	text-align: center;
+}
+
+#folks-members {
+	width: 800px;
+	height: 1025px;
+	margin: 0 auto;
+}
+
+.folks-div {
+	float: left;
+}
+
+.folks-name {
+	color: #FF0048;
+	font-size: 29px;
+	line-height: 29px;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.folks-job {
+	color: #000000;
+	font-size: 1em;
+	line-height: 1em;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+#contact {
+	width: 180px;
+	margin: 0 auto;
+	background-color: #000000;
+	color: #E8E8E8;
+	font-size: 1.2em;
+	line-height: 2em;
+	text-align: center;
+}
+
+#contact > a:link {
+	color: #E8E8E8;
+	text-decoration: none;
+}
+
+#contact > a:visited {
+	color: #E8E8E8;
+	text-decoration: none;
+}
+
+#contact > a:hover {
+	color: #E8E8E8;
+	text-decoration: none;
+}
+
+#company-introduction {
+	background-image: url("pic/footregion_small.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 1200px;
+	color: #FFFFFF;
+}
+
+.company-introduction-title {
+	font-size: 39px;
+	line-height: 60px;
+}
+
+#company-introduction-01 {
+	position: relative;
+	width: 387px;
+	height: 450px;
+	top: 10%;
+	left: 27%;
+}
+
+#company-introduction-02 {
+	position: relative;
+	width: 387px;
+	height: 450px;
+	top: -27%;
+	left: 55%;
+}
+
+#company-introduction-03 {
+	position: relative;
+	width: 387px;
+	height: 450px;
+	top: -20%;
+	left: 27%;
+}
+
+#company-introduction-04 {
+	position: relative;
+	width: 387px;
+	height: 450px;
+	top: -57%;
+	left: 55%;
+}
+
+.dotdot {
+	font-size: 4em;
+	color: #FFFFFF;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+#back-to-top {
+	width: 220px;
+	margin: 0 auto;
+	background-color: #FFFFFF;
+	color: #000000;
+	font-size: 1.2em;
+	line-height: 2em;
+	text-align: center;
+	position: relative;
+	top: -55%;
+}
+
+#back-to-top > a:link {
+	color: #000000;
+	text-decoration: none;
+}
+
+#back-to-top > a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+
+#back-to-top > a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+
+#footer {
+	height: 80px;
+	background-color: #E8E8E8;
+	
+}
+
+.copyright {
+	color: #000000;
+	font-size: 20px;
+	line-height: 80px;
+	text-align: center;
+}
