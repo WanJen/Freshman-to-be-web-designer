@@ -1,0 +1,279 @@
+.clear {
+    clear: both;
+}
+
+#header {
+	background-color: #535151;
+	height: 150px;
+	position: static;
+}
+
+#header-container {
+	/*width: 1875px;
+	height: 67px;*/
+	padding-top: 60px;
+	padding-left: 240px;
+}
+
+#logo {
+	font-family: Gotham;
+	font-size: 35px;
+	color: #D9D9D9;
+}
+
+#header-container ul{
+	position: absolute;
+	top: 55px;
+	left: 480px;
+	font-size: 22px;
+	color: #D3D3D3;
+}
+
+#header-container li{
+	float: left;
+	margin-top: 10px;
+	margin-left: 80px;
+}
+
+#shopping-bag {
+	width: 64px;
+	height: 64px;
+	color: #FFFFFF;
+	position: absolute;
+	top: 45px;
+	left: 1480px;
+	font-size: 22px;
+	text-align: center;
+	background-image: url("pic/shopping_bag.png");
+	background-repeat:no-repeat;
+    background-size: 100% 100%;
+}
+
+#number {
+	margin-top: 20px;
+}
+
+#banner {
+	height: 600px;
+	background-image: url("pic/model01.jpg");
+	background-repeat:no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+	position: static;
+}
+
+#season {
+	background: rgba(255, 255, 255, 0.5); 
+	width: 500px;
+	height: 150px;
+	position: relative;
+	left: 50%;
+	top: 50%;
+	margin-top: -25px;
+	margin-left: -200px;
+}
+
+#season-title {
+	font-family: Georgia;
+	font-size: 40px;
+	font-weight: bold;
+	line-height: 100px;
+}
+
+#shop-button {
+	font-size: 20px;
+	color: #FFFFFF;
+	background-color: #000000;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#shop-button a:link{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#shop-button a:visited{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#shop-button a:hover{
+	color: #FF0000;
+	text-decoration: none;
+}
+
+#banner-footer {
+	height: 40px;
+	font-family: Myriad Pro;
+	color: #303132;
+	font-size: 16px;
+	background-color: #E3E3E3;
+	
+}
+
+#banner-footer-text {
+	position: relative;
+	left: 50%;
+	margin-left: -100px;
+	line-height: 40px;
+}
+
+#main {
+	padding-top: 50px;
+}
+
+#main-title {
+	position: relative;
+	left: 50%;
+	margin-left: -200px;
+	font-family: Georgia;
+	font-size: 50px;
+	line-height: 80px;
+	
+}
+
+#main-dash {
+	position: relative;
+	left: 50%;
+	font-family: Lucida Grande;
+	font-size: 30px;
+	line-height: 40px;
+}
+
+#main-text {
+	position: relative;
+	left: 50%;
+	margin-left: -140px;
+	font-family: Myriad Pro;
+	font-size: 30px;
+	line-height: 60px;
+}
+
+#main-pic {
+	width: 930px;
+	margin: 0 auto;
+}
+
+#pic-left {
+	width: 33%;
+	float: left;
+}
+
+#pic-center {
+	width: 33%;
+	float: left;
+}
+
+#pic-right {
+	width: 33%;
+	float: left;
+}
+
+#footer {
+	background-color: #535151;
+	height: 400px;
+	margin-top: 50px;
+	color: #DEDEDE;
+	position: static;
+}
+
+#footer-pannel {
+	width: 930px;
+	margin: 0 auto;
+	position: static;
+}
+
+#footer-left {
+	width: 33%;
+	float: left;
+	padding-top: 100px;
+}
+
+#footer-left img{
+	width: 75%;
+	
+}
+
+#footer-left-title {
+	font-size: 20px;
+	padding-left: 20px;
+}
+
+#footer-center {
+	width: 33%;
+	float: left;
+	padding-top: 100px;
+}
+
+#footer-center-title {
+	font-size: 20px;
+	
+}
+
+#text01 {
+	color: #DEDEDE;
+	background-color: #535151;
+	font-size: 20px;
+	margin-top: 10px;
+	width: 100%;
+}
+
+#submit01 {
+	background-color: #D3D3D3;
+	color: #333435;
+	font-size: 17px;
+	margin-top: 10px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	padding-right: 8px;
+	margin-left: 65%;
+}
+
+#footer-right {
+	width: 33%;
+	float: left;
+	padding-top: 100px;
+	font-size: 20px;
+}
+
+#footer-right-01 {
+	position: relative;
+	left: 50%;
+	margin-left: -100px;
+	line-height: 30px;
+}
+
+#footer-right-02 {
+	position: relative;
+	left: 50%;
+	margin-left: -70px;
+	line-height: 30px;
+}
+
+#footer-right-03 {
+	position: relative;
+	left: 50%;
+	margin-left: -80px;
+	line-height: 30px;
+}
+
+#footer-bottom-pannel {
+	height: 80px;
+	position: static;
+	padding-top: 40px;
+}
+
+#footer-bottom {
+/*border: 1px solid red;*/
+	font-size: 20px;
+	position: relative;
+	left: 25%;
+	/*margin-left: -65px;*/
+	/*margin-top: 240px;*/
+	padding-top: 240px;
+}
+
